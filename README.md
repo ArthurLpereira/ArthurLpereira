@@ -31,5 +31,6 @@ Tenho planos de cursar **Análise e Desenvolvimento de Sistemas (ADS)** na facul
 ### Ferramentas:
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-696969?style=for-the-badge&logo=figma&logoColor=figma) ![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=Postman&logoColor=white)
 
-
+##
+## Mais usados:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurLPereira&layout=donut&theme=dark)](https://github.com/ArthurLPereira)
