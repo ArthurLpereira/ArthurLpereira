@@ -1,7 +1,11 @@
-### Olá! Eu sou Arthur Leandro 👋.
-#### Estou ingressando no universo da programação, com um forte interesse no desenvolvimento web. Atualmente, estudo no Senai para aprimorar minhas habilidades técnicas e práticas.
-#### Meu objetivo é estabelecer uma carreira sólida em programação e trabalhar em uma grande empresa onde eu possa aplicar meu conhecimento e contribuir para projetos significativos. Estou particularmente entusiasmado com as possibilidades que o desenvolvimento web oferece, desde a criação de interfaces intuitivas até a solução de desafios técnicos complexos.
-#### Estou comprometido com o aprendizado contínuo e determinado a alcançar meus objetivos profissionais na área. Estou animado com as oportunidades futuras e pronto para enfrentar novos desafios.
+## Olá! 👋  
+
+Sou Arthur Leandro, um desenvolvedor front-end apaixonado por tecnologia e inovação. Atualmente, estudo **Desenvolvimento de Sistemas no SENAI** e estou sempre em busca de aprimorar minhas habilidades, especialmente em **Laravel, PHP e React**.  
+
+Me destaquei durante meus estudos e fui escolhido para um **estágio proporcionado pelo SENAI**, onde estou adquirindo ainda mais experiência prática e ampliando meus conhecimentos no desenvolvimento de software.  
+
+Tenho planos de cursar **Análise e Desenvolvimento de Sistemas (ADS)** na faculdade para aprofundar ainda mais meus conhecimentos e seguir construindo soluções eficientes e intuitivas. 🚀  
+
 
 
 
