@@ -14,7 +14,7 @@ Tenho planos de cursar **Análise e Desenvolvimento de Sistemas (ADS)** na facul
 ### Minhas principais redes sociais são:
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/arthur_leandr00/?next=%2F)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthur-pereira-a12aa2310/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthurleandrodev/)
 
 ##
 ### Minhas principais linguagens dominadas são:
