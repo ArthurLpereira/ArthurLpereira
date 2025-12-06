@@ -1,10 +1,10 @@
 ## Olá! 👋  
 
-Sou Arthur Leandro, um desenvolvedor front-end apaixonado por tecnologia e inovação. Atualmente, estudo **Desenvolvimento de Sistemas no SENAI** e estou sempre em busca de aprimorar minhas habilidades, especialmente em **Laravel, PHP e React**.  
+Sou Arthur Leandro, desenvolvedor web formado em Desenvolvimento de Sistemas pelo Senai SP e com experiência profissional adquirida durante meu período como Aprendiz de Tecnologia na Atvos. Ao longo da minha formação e atuação, construí uma base sólida em programação, banco de dados e desenvolvimento de aplicações web.
 
-Me destaquei durante meus estudos e fui escolhido para um **estágio proporcionado pelo SENAI**, onde estou adquirindo ainda mais experiência prática e ampliando meus conhecimentos no desenvolvimento de software.  
+Tenho experiência prática com HTML, CSS, JavaScript, PHP, MySQL, APIs, JSON e Laravel, além de conhecimentos em Git, versionamento de código e criação de sistemas completos, incluindo CRUDs, autenticação, responsividade e boas práticas de desenvolvimento. Atuei com resolução de problemas, organização de tarefas e aplicação real de conceitos de lógica e tecnologia no ambiente corporativo.
 
-Tenho planos de cursar **Análise e Desenvolvimento de Sistemas (ADS)** na faculdade para aprofundar ainda mais meus conhecimentos e seguir construindo soluções eficientes e intuitivas. 🚀  
+Sou dedicado, disciplinado e focado em evolução contínua. Busco agora uma oportunidade para iniciar minha trajetória profissional como desenvolvedor, aplicando minhas habilidades em projetos reais e contribuindo de forma significativa para a equipe e para a empresa.
 
 
 
