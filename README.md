@@ -23,19 +23,19 @@ I am dedicated, disciplined, and focused on continuous improvement. I am now loo
 
 <p> <img src="https://skillicons.dev/icons?i=html" width="50"/> <img src="https://skillicons.dev/icons?i=css" width="50"/> <img src="https://skillicons.dev/icons?i=js" width="50"/> <img src="https://skillicons.dev/icons?i=react" width="50"/> <img src="https://skillicons.dev/icons?i=bootstrap" width="50"/> </p>
 
-----------
+##
 
 ### 🔧 Back-end
 
 <p> <img src="https://skillicons.dev/icons?i=mysql" width="50"/> <img src="https://skillicons.dev/icons?i=python" width="50"/> <img src="https://skillicons.dev/icons?i=php" width="50"/> <img src="https://skillicons.dev/icons?i=laravel" width="50"/> </p>
 
-----------
+##
 
 ## 🛠️ Tools
 
 <p> <img src="https://skillicons.dev/icons?i=git" width="50"/> <img src="https://skillicons.dev/icons?i=figma" width="50"/> <img src="https://skillicons.dev/icons?i=postman" width="50"/> </p>
 
-----------
+##
 
 > "Great results start with small steps — and I am always ready for the next one."
 
